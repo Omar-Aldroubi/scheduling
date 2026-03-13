@@ -29,7 +29,7 @@ Le projet est structuré selon une architecture modulaire pour assurer la clart�
 
 ---
 
-##  Compilation et Exécution
+##  Compilation
 
 ### Prérequis
 * Java 11 ou supérieur.
